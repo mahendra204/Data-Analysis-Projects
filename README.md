@@ -36,3 +36,20 @@ step 5:
  Step 7:
     Finally i prepared the Dashboard of vrinda store to make easy understand by the client to get solutions for their problems by adding slicers to find each and every 
     thing clearly as we can see them in above attached files.
+    
+    
+    inaights:
+    -----------------
+    ---> In march month having the highest sales and orders.
+    
+    ----> Women are more likely to purchase as compared to men that we can observed in the report.
+    
+    ----> in Maharstra, Karnatak and Utterpradesh are the top 3 states where the sales are maximum.
+    
+    -----> Amazon, flipkart and myntra are the three channels are the maximum contributors among all remaining.
+    
+    -----> Adult age group  is the maximum contributing to the sales.
+    
+    ------> As a data analyst i would suggest stakeholders like women are more likely to purchase things related to thier cloths and those are mostly in adult age 
+            from maharastra, karnataka and utterpradesh states in amazon, flipkart and myntra shoping channels so i would suggest keep attract those people to make
+            more profit in the business vrinda store.
