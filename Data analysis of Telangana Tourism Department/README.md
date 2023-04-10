@@ -19,8 +19,7 @@ Column Description for domestic and foreign visitors:
 4. year:  The year is in YYYY format.
 5. visitors: The number of domestic or foreign visitors who visited the given district in Telangana during the specified month and year. 
              
-	     
-	     This could include tourists, business travellers, and other types of domestic visitors.
+This could include tourists, business travellers, and other types of domestic visitors.
 
               
 Thanks for visiting keep learning.
