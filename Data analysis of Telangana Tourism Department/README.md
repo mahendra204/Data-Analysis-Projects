@@ -6,6 +6,8 @@ that we can understand by doing data analysis that is we are going to do.
 
 i) domestic visitors: contains data about visitors who travel within the country(India) to 'Telangana' districts for various purposes, such as tourism,
                           business, visiting friends and family.
+			  
+			  
 ii) foreign visitors: contains data about international visitors, referring to individuals who travel from one country 
 			        to another for various purposes such as tourism, business, education, or visiting friends and family.
               
