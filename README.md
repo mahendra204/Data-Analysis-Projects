@@ -1,4 +1,4 @@
-# Data-Analysis-using-MS-Excel extracting insghts by preparing dash board
+# Exploratory Data-Analysis-using SQL, Python libraries and MS-Excel to extract insghts with visual reports by preparing dash board.
 
 problems to be solved by the analyst for the business requirements by the client to make profit of vrind store.
 
