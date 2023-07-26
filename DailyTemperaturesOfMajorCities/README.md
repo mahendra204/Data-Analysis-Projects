@@ -12,4 +12,3 @@ analysis.
 Pandas library will be most useful when it comes to large data set to analyze the large amount of data as compared to excel
 
 
-Thanks for visiting, keep learning and this will surely gives you the confidence. 
